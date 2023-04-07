@@ -82,7 +82,7 @@ export default function Blog() {
       <Fade right>
         <div class="grid">
           <div class="entry-media">
-            <img src={blog1} style={{width:'-webkit-fill-available'}} alt class="img img-responsive"/>
+            <img src={blog1} style={{width:'100%', height:'200px'}}  alt class="img img-responsive"/>
           </div>
           <div class="entry-details">
             <h3><a style={{textDecoration:'none', fontFamily:'Maya'}}>Increasing the innovativeness of textile and apparel industry</a></h3>
@@ -99,7 +99,7 @@ export default function Blog() {
       <Fade right>
         <div class="grid">
           <div class="entry-media">
-            <img src={blog2} style={{width:'-webkit-fill-available'}} alt class="img img-responsive"/>
+            <img src={blog2} style={{width:'100%', height:'200px'}} alt class="img img-responsive"/>
           </div>
           <div class="entry-details">
             <h3><a style={{textDecoration:'none', fontFamily:'Maya'}}>Will Industrial Engineers replace Traditional Production Managers?</a></h3>
@@ -116,7 +116,7 @@ export default function Blog() {
       <Fade right>
         <div class="grid">
           <div class="entry-media">
-            <img src={blog3} style={{width:'-webkit-fill-available'}} alt class="img img-responsive"/>
+            <img src={blog3} style={{width:'100%', height:'200px'}}  alt class="img img-responsive"/>
           </div>
           <div class="entry-details">
             <h3><a style={{textDecoration:'none', fontFamily:'Maya'}}>10 Fabrics to Wear in Summer to Beat the Heat</a></h3>
@@ -133,7 +133,7 @@ export default function Blog() {
       <Fade right>
         <div class="grid">
           <div class="entry-media">
-            <img src={blog4} style={{width:'-webkit-fill-available'}} alt class="img img-responsive"/>
+            <img src={blog4} style={{width:'100%', height:'200px'}}  alt class="img img-responsive"/>
           </div>
           <div class="entry-details">
             <h3><a style={{textDecoration:'none', fontFamily:'Maya'}}>Advancements in Fabric Weaving Technologies</a></h3>
@@ -167,7 +167,7 @@ export default function Blog() {
       <Fade right>
         <div class="grid">
           <div class="entry-media">
-            <img src={blog6} style={{width:'-webkit-fill-available'}} alt class="img img-responsive"/>
+            <img src={blog6} style={{width:'100%', height:'200px'}}  alt class="img img-responsive"/>
           </div>
           <div class="entry-details">
             <h3><a style={{textDecoration:'none', fontFamily:'Maya'}}>STTI coalition welcomes improvement purchasing practices by BRM</a></h3>
@@ -184,7 +184,7 @@ export default function Blog() {
       <Fade right>
         <div class="grid">
           <div class="entry-media">
-            <img src={blog7} style={{width:'-webkit-fill-available'}} alt class="img img-responsive"/>
+            <img src={blog7} style={{width:'100%', height:'200px'}}  alt class="img img-responsive"/>
           </div>
           <div class="entry-details">
             <h3><a style={{textDecoration:'none', fontFamily:'Maya'}}>Fiber from Milk Byproducts – a New Dimension</a></h3>
@@ -201,7 +201,7 @@ export default function Blog() {
       <Fade right>
         <div class="grid">
           <div class="entry-media">
-            <img src={blog8} style={{width:'-webkit-fill-available'}} alt class="img img-responsive"/>
+            <img src={blog8} style={{width:'100%', height:'200px'}}  alt class="img img-responsive"/>
           </div>
           <div class="entry-details">
             <h3><a style={{textDecoration:'none', fontFamily:'Maya'}}>Future of Textiles with Nanotechnology</a></h3>
@@ -218,7 +218,7 @@ export default function Blog() {
       <Fade right>
         <div class="grid">
           <div class="entry-media">
-            <img src={blog9} style={{width:'-webkit-fill-available'}} alt class="img img-responsive"/>
+            <img src={blog9} style={{width:'100%', height:'200px'}}  alt class="img img-responsive"/>
           </div>
           <div class="entry-details">
             <h3><a style={{textDecoration:'none', fontFamily:'Maya'}}>Sustainability in Textile Processing
